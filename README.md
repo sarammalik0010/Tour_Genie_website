@@ -16,7 +16,7 @@ A simple tour booking web application built with the **MERN stack** (MongoDB, Ex
 - **Database:** MongoDB (local/Atlas)
 
 ## 📂 Project Setup
-
+npm i  // to install dependencies
 ### 1. Clone the repo
 ```bash
 git clone https://github.com/your-username/tour-genie.git
